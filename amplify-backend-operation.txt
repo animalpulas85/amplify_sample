@@ -1,0 +1,12 @@
+<prepartion>
+$ npm install -g @aws-amplify/cli
+$ npm install -g aws-amplify @aws-amplify/ui-react
+
+
+<backend setting>
+$ amplify pull --appId <> --envName <>
+
+
+<backend auth cli>
+$ amplify add auth
+$ amplify push
